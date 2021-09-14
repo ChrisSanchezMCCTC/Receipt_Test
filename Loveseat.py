@@ -18,3 +18,4 @@ print(customer_one_itemization)
 print(customer_one_total)
 git config --global user.email "sanchez_christopher@student.mahoningctc.com"
   git config --global user.name "ChrisSanchezMCCTC"
+ print("Have a nice day:")
